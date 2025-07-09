@@ -1,19 +1,6 @@
 <h1 align="center">
-  Hi Guys <span style="display:inline-block; transform-origin: 70% 70%; animation: wave 2s infinite;">👋</span>
+  Hi Guys <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 ```python
 # Welcome to my GitHub profile
