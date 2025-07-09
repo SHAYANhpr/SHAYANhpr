@@ -1,16 +1,26 @@
-## Hi there 👋
+```
+🟩 Booting up terminal...
+💾 Loading profile...
 
-<!--
-**SHAYANhpr/SHAYANhpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 User: SHAYANhpr  
+🛰️ Status: Online  
+📍 Location: Web 🌐
 
-Here are some ideas to get you started:
+> Initializing code environment...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:  
+├── HTML  
+├── CSS (Tailwind, Sass)  
+├── JavaScript (React, Next.js)  
+├── C# / .NET  
+└── Git & GitHub
+
+> Projects:  
+📂 Snake-on-GitHub  
+📂 VS Windows Forms App  
+📂 Markdown Hacker Readme
+
+🧠 Motto: "Always debugging life... ☕ powered by passion"
+
+> echo "Thanks for visiting my terminal 💚"
+```
