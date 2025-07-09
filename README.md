@@ -33,8 +33,10 @@ me.introduce()
 
 ---
 
+---
+
 <h2 align="center">👨‍💻 Me While Coding</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding guy gif"/>
 </p>
