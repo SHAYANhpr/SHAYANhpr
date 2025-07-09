@@ -19,3 +19,14 @@ class Developer:
 
 me = Developer()
 me.introduce()
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="mailto:shayanhpr@gmail.com">📧 Email</a> •
+  <a href="https://t.me/SHAYANhpr">💬 Telegram</a> •
+  <a href="https://instagram.com/shayan.hpr">📷 Instagram</a> •
+  <a href="https://github.com/SHAYANhpr">💻 GitHub</a>
+</p>
