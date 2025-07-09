@@ -1,9 +1,5 @@
 <h1 align="center">
   Hello Guys 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align: middle;"/>
 </h1>
 
@@ -35,4 +31,3 @@ me.introduce()
   <a href="https://instagram.com/----">📷 Instagram</a> •
   <a href="https://github.com/SHAYANhpr">💻 GitHub</a>
 </p>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" style="vertical-align: middle;"/>
