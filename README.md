@@ -30,17 +30,3 @@ me.introduce()
   <a href="https://instagram.com/shayan.hpr">📷 Instagram</a> •
   <a href="https://github.com/SHAYANhpr">💻 GitHub</a>
 </p>
-
-
-
-
----
-
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:shayanhpr@gmail.com" target="_blank">📧 shayanhpr@gmail.com</a><br>
-  <a href="https://t.me/SHAYANhpr" target="_blank">💬 Telegram</a><br>
-  <a href="https://instagram.com/shayan.hpr" target="_blank">📷 Instagram</a><br>
-  <a href="https://github.com/SHAYANhpr" target="_blank">💻 GitHub</a>
-</p>
